@@ -3,7 +3,7 @@
 **Mahasiswa:** Sasmitha Auliyah Ramadhani  
 **NIM:** 202510370110160  
 
-Karena pengerjaan dilakukan secara individu, seluruh kontribusi tercatat atas nama mahasiswa di atas.
+Karena pengerjaan dilakukan secara individu, seluruh kontribusi tercatat atas nama saya (mahasiswa di atas).
 
 ---
 
