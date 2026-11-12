@@ -1,0 +1,551 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,755/Pid.Sus/2025/PN Cbi,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,tanggalPutusan,2026-04-22,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,terdakwaKode,T001a;T001b,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,jenisNarkotika,Sabu,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,beratBarangBuktiGram,1.02,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,pasalDakwaan,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,pasalTerbukti,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,tuntutanBulan,72,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,vonisBulan,60,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,dendaRupiah,0,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P001,barangBukti,1.02; 0.26; 0.32,putusan_p001.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,nomorPerkara,827/Pid.Sus/2025/PN Cbi,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,tanggalPutusan,2026-05-07,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,terdakwaKode,T002,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,jenisNarkotika,Sabu,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,beratBarangBuktiGram,2.39,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,pasalDakwaan,Pasal 114 ayat (1); Pasal 609 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,pasalTerbukti,Pasal 114 ayat (1); Pasal 609 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,tuntutanBulan,84,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,vonisBulan,84,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,dendaRupiah,0,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P002,barangBukti,0.3335; 0.2360; 0.5695; 0.3103; 0.2179; 2.39,putusan_p002.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,nomorPerkara,803/Pid.Sus/2025/PN Cbi,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,tanggalPutusan,2026-04-30,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,terdakwaKode,T003a;T003b;T003c,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,jenisNarkotika,Sabu;Tembakau Sintetis,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,beratBarangBuktiGram,66.9945,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,tuntutanBulan,120,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,vonisBulan,144,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,dendaRupiah,0,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P003,barangBukti,59.2953; 3.2451; 0.1794; 6.51; 1.57; 2.22; 66.9945; 5.7588,putusan_p003.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,nomorPerkara,829/Pid.Sus/2025/PN Cbi,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,tanggalPutusan,2026-04-29,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,terdakwaKode,T004,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,jenisNarkotika,Sabu,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,beratBarangBuktiGram,7.4583,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,pasalDakwaan,Pasal 609 ayat (2); Pasal 84 ayat (2); Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,pasalTerbukti,Pasal 609 ayat (2); Pasal 84 ayat (2); Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,tuntutanBulan,108,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,vonisBulan,108,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,dendaRupiah,0,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P004,barangBukti,7.4583; 1.6682; 0.7129; 4.3722; 1.3767; 0.6134; 4.3126,putusan_p004.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,nomorPerkara,782/Pid.Sus/2025/PN Cbi,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,tanggalPutusan,2026-04-15,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,terdakwaKode,T005,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,jenisNarkotika,Sabu,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,beratBarangBuktiGram,2.49,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,pasalDakwaan,Pasal 114 ayat (1); Pasal 84 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,pasalTerbukti,Pasal 114 ayat (1); Pasal 84 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,tuntutanBulan,96,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,vonisBulan,96,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,dendaRupiah,0,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P005,barangBukti,2.2879; 2.4900,putusan_p005.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,nomorPerkara,781/Pid.Sus/2025/PN Cbi,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,tanggalPutusan,2026-04-09,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,terdakwaKode,T006,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,jenisNarkotika,Ekstasi;Sabu,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,beratBarangBuktiGram,2.6117,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1); Pasal 155 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1); Pasal 155 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,tuntutanBulan,84,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,vonisBulan,84,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,dendaRupiah,0,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P006,barangBukti,2.6117,putusan_p006.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,nomorPerkara,828/Pid.Sus/2025/PN Cbi,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,tanggalPutusan,2026-04-09,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,terdakwaKode,T007,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,jenisNarkotika,Sabu,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,beratBarangBuktiGram,1.2,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,pasalDakwaan,Pasal 114 ayat (1); Pasal 114 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,pasalTerbukti,Pasal 114 ayat (1); Pasal 114 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,tuntutanBulan,84,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,vonisBulan,84,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,dendaRupiah,0,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P007,barangBukti,0.6643; 0.2673; 0.4086; 0.0812; 0.2344; 0.3682; 0.0617; 1.20,putusan_p007.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,nomorPerkara,824/Pid.Sus/2025/PN Cbi,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,tanggalPutusan,2026-04-07,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,terdakwaKode,T008a;T008b,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,jenisNarkotika,Sabu,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,beratBarangBuktiGram,9.5502,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,pasalDakwaan,Pasal 114 ayat (2); Pasal 132 ayat (2); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,pasalTerbukti,Pasal 114 ayat (2); Pasal 132 ayat (2); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,tuntutanBulan,120,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,vonisBulan,120,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,dendaRupiah,0,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P008,barangBukti,3.5532; 4.0224; 9.5502; 2.0296; 2.1008; 3.5148; 4.0058,putusan_p008.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,nomorPerkara,774/Pid.Sus/2025/PN Cbi,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,tanggalPutusan,2026-04-01,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,terdakwaKode,T009,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,jenisNarkotika,Tembakau Sintetis,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,beratBarangBuktiGram,7.9406,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1); Pasal 84 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1); Pasal 84 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,tuntutanBulan,60,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,vonisBulan,48,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,dendaRupiah,0,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P009,barangBukti,7.9406; 3.3235; 7.8825; 3.2426,putusan_p009.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,nomorPerkara,821/Pid.Sus/2025/PN Cbi,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,tanggalPutusan,2026-03-12,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,terdakwaKode,T010,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,jenisNarkotika,Sabu,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,beratBarangBuktiGram,1.85,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,tuntutanBulan,96,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,vonisBulan,96,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,dendaRupiah,0,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P010,barangBukti,1.19; 0.3241; 0.2694; 1.85,putusan_p010.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,nomorPerkara,753/Pid.Sus/2025/PN Cbi,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,tanggalPutusan,2026-03-12,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,terdakwaKode,T011,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,jenisNarkotika,Sabu,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,beratBarangBuktiGram,1.8819,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,pasalDakwaan,Pasal 112 ayat (1); Pasal 609 ayat (1); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,pasalTerbukti,Pasal 112 ayat (1); Pasal 609 ayat (1); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,tuntutanBulan,96,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,vonisBulan,72,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,dendaRupiah,8000000000,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P011,barangBukti,1.8819; 1.8404,putusan_p011.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,nomorPerkara,830/Pid.Sus/2025/PN Cbi,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,tanggalPutusan,2026-03-12,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,terdakwaKode,T012a;T012b;T012c,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,jenisNarkotika,Sabu,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,beratBarangBuktiGram,0.75,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,pasalDakwaan,Pasal 114 ayat (2); Pasal 132 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,pasalTerbukti,Pasal 114 ayat (2); Pasal 132 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,tuntutanBulan,144,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,vonisBulan,144,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,dendaRupiah,0,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P012,barangBukti,0.75,putusan_p012.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,nomorPerkara,766/Pid.Sus/2025/PN Cbi,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,tanggalPutusan,2026-03-12,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,terdakwaKode,T013,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,jenisNarkotika,Sabu,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,beratBarangBuktiGram,31.6499,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,pasalDakwaan,Pasal 114 ayat (2); Pasal 609 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,pasalTerbukti,Pasal 114 ayat (2); Pasal 609 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,tuntutanBulan,120,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,vonisBulan,120,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,dendaRupiah,0,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P013,barangBukti,31.6499; 23.7165; 4.3571; 3.2008; 1.0834; 23.6444; 4.1526; 2.9274,putusan_p013.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,nomorPerkara,746/Pid.Sus/2025/PN Cbi,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,tanggalPutusan,2026-03-12,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,terdakwaKode,T014,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,jenisNarkotika,Sabu,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,beratBarangBuktiGram,100.66,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,pasalDakwaan,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,pasalTerbukti,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,tuntutanBulan,144,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,vonisBulan,144,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,dendaRupiah,0,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P014,barangBukti,100.66; 50.32; 50.34,putusan_p014.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,nomorPerkara,745/Pid.Sus/2025/PN Cbi,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,tanggalPutusan,2026-03-11,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,terdakwaKode,T015,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,jenisNarkotika,Sabu,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,beratBarangBuktiGram,26.66,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,pasalDakwaan,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,pasalTerbukti,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,tuntutanBulan,108,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,vonisBulan,108,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,dendaRupiah,0,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P015,barangBukti,26.66; 25.1132; 24.8816,putusan_p015.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,nomorPerkara,804/Pid.Sus/2025/PN Cbi,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,tanggalPutusan,2026-03-10,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,terdakwaKode,T016,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,jenisNarkotika,Sabu;Tembakau Sintetis,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,beratBarangBuktiGram,101.888,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,pasalDakwaan,Pasal 114 ayat (2); Pasal 113 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,pasalTerbukti,Pasal 114 ayat (2); Pasal 113 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,tuntutanBulan,108,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,vonisBulan,108,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,dendaRupiah,0,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P016,barangBukti,4.5473; 0.9955; 81.3000; 101.888; 4.4679; 16.4940; 0.7761; 80.1500,putusan_p016.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,nomorPerkara,747/Pid.Sus/2025/PN Cbi,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,tanggalPutusan,2026-03-10,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,terdakwaKode,T017,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,jenisNarkotika,Sabu;Tembakau Sintetis,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,beratBarangBuktiGram,49.9,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,tuntutanBulan,96,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,vonisBulan,96,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,dendaRupiah,8000000000,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P017,barangBukti,0.6; 0.9; 30.8640; 49.9,putusan_p017.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,nomorPerkara,728/Pid.Sus/2025/PN Cbi,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,tanggalPutusan,2026-03-04,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,terdakwaKode,T018,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,jenisNarkotika,Sabu,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,beratBarangBuktiGram,0.3505,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,tuntutanBulan,84,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,vonisBulan,84,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,dendaRupiah,0,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P018,barangBukti,0.2894; 0.3505,putusan_p018.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,nomorPerkara,756/Pid.Sus/2025/PN Cbi,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,tanggalPutusan,2026-03-04,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,terdakwaKode,T019,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,jenisNarkotika,Sabu,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,beratBarangBuktiGram,2.2135,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,tuntutanBulan,120,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,vonisBulan,120,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,dendaRupiah,5000000000,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P019,barangBukti,2.2135; 1.8228; 0.3340; 0.4981; 0.4635; 0.1049; 0.0836; 0.2454,putusan_p019.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,nomorPerkara,683/Pid.Sus/2025/PN Cbi,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,tanggalPutusan,2026-03-04,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,terdakwaKode,T020,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,jenisNarkotika,Tembakau Sintetis,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,beratBarangBuktiGram,3.45,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,tuntutanBulan,108,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,vonisBulan,108,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,dendaRupiah,10000000000,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P020,barangBukti,3.45; 2.9723; 0.4788; 0.41; 0.3705; 0.0364,putusan_p020.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,nomorPerkara,798/Pid.Sus/2025/PN Cbi,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,tanggalPutusan,2026-03-03,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,terdakwaKode,T021a;T021b,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,jenisNarkotika,Sabu;Tembakau Sintetis,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,beratBarangBuktiGram,1.8524,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,tuntutanBulan,96,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,vonisBulan,84,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,dendaRupiah,0,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P021,barangBukti,1.8524; 1.4181; 0.7354; 1.3135; 0.5389,putusan_p021.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,nomorPerkara,811/Pid.Sus/2025/PN Cbi,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,tanggalPutusan,2026-03-02,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,terdakwaKode,T022,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,jenisNarkotika,Sabu,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,beratBarangBuktiGram,1.11,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,tuntutanBulan,96,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,vonisBulan,96,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,dendaRupiah,8000000000,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P022,barangBukti,0.21; 0.6361; 0.6193; 1.11; 0.0876; 0.0715,putusan_p022.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,nomorPerkara,769/Pid.Sus/2025/PN Cbi,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,tanggalPutusan,2026-03-02,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,terdakwaKode,T023,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,jenisNarkotika,Tembakau Sintetis,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,beratBarangBuktiGram,9.1768,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,pasalDakwaan,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 84 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,pasalTerbukti,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 84 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,tuntutanBulan,84,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,vonisBulan,84,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,dendaRupiah,0,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P023,barangBukti,9.0360; 9.1768; 2.5,putusan_p023.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,nomorPerkara,776/Pid.Sus/2025/PN Cbi,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,tanggalPutusan,2026-02-25,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,terdakwaKode,T024,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,jenisNarkotika,Sabu,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,beratBarangBuktiGram,6.6167,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,pasalDakwaan,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,pasalTerbukti,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,tuntutanBulan,108,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,vonisBulan,108,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,dendaRupiah,2500000000,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P024,barangBukti,6.6167; 5.5226; 1.9069; 1.5572; 1.4229; 1.2305; 0.9649; 0.7840,putusan_p024.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,nomorPerkara,775/Pid.Sus/2025/PN Cbi,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,tanggalPutusan,2026-02-25,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,terdakwaKode,T025,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,jenisNarkotika,Sabu,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,beratBarangBuktiGram,6.6167,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,pasalDakwaan,Pasal 114 ayat (2); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,pasalTerbukti,Pasal 114 ayat (2); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,tuntutanBulan,108,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,vonisBulan,108,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,dendaRupiah,2500000000,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P025,barangBukti,6.6167; 5.5226; 1.9069; 1.5572; 1.4229; 1.2305; 0.9649; 0.7840,putusan_p025.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,nomorPerkara,702/Pid.Sus/2025/PN Cbi,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,tanggalPutusan,2026-02-05,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,terdakwaKode,T026,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,jenisNarkotika,Sabu,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,beratBarangBuktiGram,0,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,pasalDakwaan,Pasal 114 ayat (2); Pasal 609 ayat (2); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,pasalTerbukti,Pasal 114 ayat (2); Pasal 609 ayat (2); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,tuntutanBulan,168,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,vonisBulan,168,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,dendaRupiah,10000000000,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P026,barangBukti,,putusan_p026.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,nomorPerkara,787/Pid.Sus/2025/PN Cbi,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,tanggalPutusan,2026-02-05,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,terdakwaKode,T027,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,jenisNarkotika,Sabu,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,beratBarangBuktiGram,20.67,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,tuntutanBulan,108,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,vonisBulan,108,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,dendaRupiah,0,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P027,barangBukti,1.5553; 1.3592; 1.84; 1.3306; 1.3686; 20.67,putusan_p027.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,nomorPerkara,721/Pid.Sus/2025/PN Cbi,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,tanggalPutusan,2026-02-05,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,terdakwaKode,T028,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,jenisNarkotika,Tembakau Sintetis,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,beratBarangBuktiGram,0.85,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,pasalDakwaan,Pasal 114 ayat (1); Pasal 84 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,pasalTerbukti,Pasal 114 ayat (1); Pasal 84 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,tuntutanBulan,108,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,vonisBulan,108,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,dendaRupiah,0,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P028,barangBukti,0.85; 0.50,putusan_p028.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,nomorPerkara,729/Pid.Sus/2025/PN Cbi,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,tanggalPutusan,2026-02-05,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,terdakwaKode,T029,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,jenisNarkotika,Sabu,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,beratBarangBuktiGram,2.22,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,tuntutanBulan,96,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,vonisBulan,96,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,dendaRupiah,0,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P029,barangBukti,0.9592; 0.9561; 2.22,putusan_p029.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,nomorPerkara,708/Pid.Sus/2025/PN Cbi,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,tanggalPutusan,2026-02-05,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,terdakwaKode,T030,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,jenisNarkotika,Ganja;Sabu,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,beratBarangBuktiGram,38.3465,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,pasalDakwaan,Pasal 111 ayat (2); Pasal 132 ayat (1); Pasal 610 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,pasalTerbukti,Pasal 111 ayat (2); Pasal 132 ayat (1); Pasal 610 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,tuntutanBulan,132,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,vonisBulan,120,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,dendaRupiah,0,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P030,barangBukti,35.9880; 2.3585; 26.0681; 26.0618; 38.3465; 2.0153,putusan_p030.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,nomorPerkara,709/Pid.Sus/2025/PN Cbi,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,tanggalPutusan,2026-02-05,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,terdakwaKode,T031,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,jenisNarkotika,Ganja;Sabu,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,beratBarangBuktiGram,35.988,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,pasalDakwaan,Pasal 111 ayat (2); Pasal 132 ayat (1); Pasal 610 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,pasalTerbukti,Pasal 111 ayat (2); Pasal 132 ayat (1); Pasal 610 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,tuntutanBulan,120,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,vonisBulan,108,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,dendaRupiah,0,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P031,barangBukti,26.0618; 35.9880; 2.3585; 2.0153,putusan_p031.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,nomorPerkara,660/Pid.Sus/2025/PN Cbi,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,tanggalPutusan,2026-02-05,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,terdakwaKode,T032,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,jenisNarkotika,Sabu;Tembakau Sintetis,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,beratBarangBuktiGram,2.7426,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,tuntutanBulan,84,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,vonisBulan,84,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,dendaRupiah,10000000000,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P032,barangBukti,2.7426,putusan_p032.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,nomorPerkara,636/Pid.Sus/2025/PN Cbi,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,tanggalPutusan,2026-02-04,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,terdakwaKode,T033a;T033b;T033c,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,jenisNarkotika,Tembakau Sintetis,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,beratBarangBuktiGram,7.51,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,tuntutanBulan,84,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,vonisBulan,84,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,dendaRupiah,10000000000,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P033,barangBukti,5.6349; 3.7; 7.51,putusan_p033.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,nomorPerkara,668/Pid.Sus/2025/PN Cbi,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,tanggalPutusan,2026-02-04,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,terdakwaKode,T034,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,jenisNarkotika,Sabu;Tembakau Sintetis,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,beratBarangBuktiGram,10.784,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,pasalDakwaan,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,pasalTerbukti,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,tuntutanBulan,132,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,vonisBulan,132,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,dendaRupiah,0,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P034,barangBukti,10.5937; 10.7840,putusan_p034.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,nomorPerkara,639/Pid.Sus/2025/PN Cbi,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,tanggalPutusan,2026-02-02,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,terdakwaKode,T035,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,jenisNarkotika,Sabu,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,beratBarangBuktiGram,0.1347,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1); Pasal 6 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1); Pasal 6 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,tuntutanBulan,120,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,vonisBulan,120,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,dendaRupiah,0,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P035,barangBukti,0.1347,putusan_p035.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,nomorPerkara,577/Pid.Sus/2025/PN Cbi,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,tanggalPutusan,2025-12-10,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,terdakwaKode,T036a;T036b,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,jenisNarkotika,Sabu,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,beratBarangBuktiGram,0.3,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,pasalDakwaan,Pasal 132 ayat (1); Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,pasalTerbukti,Pasal 132 ayat (1); Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,tuntutanBulan,144,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,vonisBulan,144,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,dendaRupiah,0,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P036,barangBukti,0.14; 0.30,putusan_p036.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,nomorPerkara,619/Pid.Sus/2025/PN Cbi,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,tanggalPutusan,2026-01-08,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,terdakwaKode,T037,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,jenisNarkotika,Tembakau Sintetis,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,beratBarangBuktiGram,1.5,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1); Pasal 244 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1); Pasal 244 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,tuntutanBulan,84,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,vonisBulan,84,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,dendaRupiah,0,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P037,barangBukti,0.63; 0.0930; 0.8; 0.3435; 1.5,putusan_p037.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,nomorPerkara,649/Pid.Sus/2025/PN Cbi,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,tanggalPutusan,2026-01-14,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,terdakwaKode,T038,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,jenisNarkotika,Sabu,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,beratBarangBuktiGram,5.78,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,tuntutanBulan,108,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,vonisBulan,108,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,dendaRupiah,10000000000,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P038,barangBukti,5.78; 4.5079; 4.6953,putusan_p038.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,nomorPerkara,643/Pid.Sus/2025/PN Cbi,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,tanggalPutusan,2026-01-14,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,terdakwaKode,T039,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,jenisNarkotika,Sabu,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,beratBarangBuktiGram,2.3018,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,pasalDakwaan,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,pasalTerbukti,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,tuntutanBulan,108,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,vonisBulan,108,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,dendaRupiah,10000000000,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P039,barangBukti,1.8690; 1.5081; 2.3018; 1.8064; 0.9808; 0.8731,putusan_p039.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,nomorPerkara,635/Pid.Sus/2025/PN Cbi,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,tanggalPutusan,2026-01-19,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,terdakwaKode,T040a;T040b,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,jenisNarkotika,Sabu,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,beratBarangBuktiGram,0,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,pasalDakwaan,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,pasalTerbukti,Pasal 114 ayat (2); Pasal 132 ayat (1); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,tuntutanBulan,108,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,vonisBulan,108,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,dendaRupiah,10000000000,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P040,barangBukti,,putusan_p040.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,nomorPerkara,676/Pid.Sus/2025/PN Cbi,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,tanggalPutusan,2026-01-20,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,terdakwaKode,T041,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,jenisNarkotika,Sabu,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,beratBarangBuktiGram,115.81,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,pasalDakwaan,Pasal 114 ayat (2); Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,pasalTerbukti,Pasal 114 ayat (2); Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,tuntutanBulan,132,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,vonisBulan,132,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,dendaRupiah,0,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P041,barangBukti,115.81; 75.7393; 0.25; 0.12; 0.6; 0.65; 43.7046; 12.3852,putusan_p041.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,nomorPerkara,712/Pid.Sus/2025/PN Cbi,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,tanggalPutusan,2026-01-20,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,terdakwaKode,T042,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,jenisNarkotika,Sabu,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,beratBarangBuktiGram,2.56,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,tuntutanBulan,96,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,vonisBulan,96,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,dendaRupiah,0,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P042,barangBukti,2.56; 0.4344,putusan_p042.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,nomorPerkara,659/Pid.Sus/2025/PN Cbi,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,tanggalPutusan,2026-01-22,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,terdakwaKode,T043,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,jenisNarkotika,Sabu,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,beratBarangBuktiGram,9.62,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,pasalDakwaan,Pasal 112 ayat (1); Pasal 182 ayat (4) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,pasalTerbukti,Pasal 112 ayat (1); Pasal 182 ayat (4) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,tuntutanBulan,96,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,vonisBulan,96,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,dendaRupiah,10000000000,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P043,barangBukti,0.62; 1.5917; 1.4184; 9.62; 0.1166; 0.2592; 0.2608; 0.1896,putusan_p043.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,nomorPerkara,738/Pid.Sus/2025/PN Cbi,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,tanggalPutusan,2026-01-22,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,terdakwaKode,T044,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,jenisNarkotika,Sabu,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,beratBarangBuktiGram,6.46,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,pasalDakwaan,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,pasalTerbukti,Pasal 114 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,tuntutanBulan,108,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,vonisBulan,108,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,dendaRupiah,0,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P044,barangBukti,6.46; 5.1669; 3.3281; 0.5257; 0.1604; 0.8284; 0.3243; 3.2975,putusan_p044.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,nomorPerkara,661/Pid.Sus/2025/PN Cbi,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,tanggalPutusan,2026-01-22,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,terdakwaKode,T045,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,jenisNarkotika,Ganja;Sabu,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,beratBarangBuktiGram,0,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,tuntutanBulan,96,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,vonisBulan,96,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,dendaRupiah,0,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P045,barangBukti,,putusan_p045.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,nomorPerkara,767/Pid.Sus/2025/PN Cbi,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,tanggalPutusan,2026-01-27,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,terdakwaKode,T046,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,jenisNarkotika,Tembakau Sintetis,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,beratBarangBuktiGram,7.8171,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,pasalDakwaan,Pasal 114 ayat (1); Pasal 84 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,pasalTerbukti,Pasal 114 ayat (1); Pasal 84 ayat (2); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,tuntutanBulan,96,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,vonisBulan,96,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,dendaRupiah,10000000000,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P046,barangBukti,7.317; 7.8171; 7.1066; 0.5311; 0.7103; 4.7045; 2.2721; 0.1576,putusan_p046.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,nomorPerkara,624/Pid.Sus/2025/PN Cbi,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,tanggalPutusan,2026-01-27,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,terdakwaKode,T047,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,jenisNarkotika,Sabu,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,beratBarangBuktiGram,0.2,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,pasalDakwaan,Pasal 112 ayat (1); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,pasalTerbukti,Pasal 112 ayat (1); Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,tuntutanBulan,84,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,vonisBulan,84,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,dendaRupiah,8000000000,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P047,barangBukti,0.1122; 0.20; 0.0848,putusan_p047.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,nomorPerkara,698/Pid.Sus/2025/PN Cbi,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,tanggalPutusan,2026-01-27,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,terdakwaKode,T048,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,jenisNarkotika,Tembakau Sintetis,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,beratBarangBuktiGram,20.4881,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,pasalDakwaan,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,pasalTerbukti,Pasal 114 ayat (1); Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,tuntutanBulan,120,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,vonisBulan,120,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,dendaRupiah,0,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P048,barangBukti,13.7929; 1.7069; 20.4881; 2.5883,putusan_p048.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,nomorPerkara,711/Pid.Sus/2025/PN Cbi,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,tanggalPutusan,2026-01-27,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,terdakwaKode,T049,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,jenisNarkotika,Sabu,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,beratBarangBuktiGram,342.1,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,pasalDakwaan,Pasal 114 ayat (2); Pasal 84 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,pasalTerbukti,Pasal 114 ayat (2); Pasal 84 ayat (2); Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,tuntutanBulan,168,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,vonisBulan,168,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,dendaRupiah,0,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P049,barangBukti,342.10; 340.92,putusan_p049.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,nomorPerkara,675/Pid.Sus/2025/PN Cbi,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,tanggalPutusan,2026-01-28,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,terdakwaKode,T050,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,jenisNarkotika,Sabu,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,beratBarangBuktiGram,0,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,pasalDakwaan,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,pasalTerbukti,Pasal 114 ayat (1); Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,tuntutanBulan,96,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,vonisBulan,96,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,dendaRupiah,0,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
+P050,barangBukti,,putusan_p050.pdf,unknown,Sasmitha Auliyah Ramadhani,Sasmitha Auliyah Ramadhani,unverified
