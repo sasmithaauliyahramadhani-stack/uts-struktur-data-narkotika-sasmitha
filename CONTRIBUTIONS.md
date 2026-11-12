@@ -22,26 +22,6 @@ Karena pengerjaan dilakukan secara individu, seluruh kontribusi tercatat atas na
 
 ---
 
-## Catatan GitHub (untuk diisi setelah diunggah)
-
-Setelah repository di-push ke GitHub, lengkapi bagian berikut:
-
-- Issue yang dibuat: (isi nomor & judul)
-- Pull Request: (isi nomor & judul)
-- Review yang dilakukan: (jika ada kolaborasi tambahan)
-- Tag final: `uts-v1.0`
-
-Contoh format setelah diunggah:
-
-```
-- Issue #1 : Setup project structure
-- Issue #2 : Implement DynamicArray
-- PR #1    : Feature/dynamic-array (reviewed & merged)
-- Tag      : uts-v1.0
-```
-
----
-
 ## Pernyataan
 
 Seluruh kode, pengujian, dan dokumentasi dalam repository ini dikerjakan dan dipertanggungjawabkan oleh:
